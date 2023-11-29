@@ -13,5 +13,5 @@ class Uber{
 
      }
 }
- var a= new Uber("50","5","15")
+ var a= new Uber(50,5,15)
 console.log(a.getamount());
